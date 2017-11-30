@@ -89,4 +89,5 @@ MIT
 ## Author Information
 
 René Moser <mail@renemoser.net>
-Logging configuration borrowed from <a href="">Steven Carr</a> from a <a href="https://stackoverflow.com/a/12114139/907592">StackOverflow's answer</a>.
+
+Logging configuration borrowed from <a href="https://stackoverflow.com/users/1618161/steven-carr">Steven Carr</a> from a <a href="https://stackoverflow.com/a/12114139/907592">StackOverflow's answer</a>.
